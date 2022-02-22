@@ -6,6 +6,8 @@ ruby '2.7.4'
 
 gem 'faker'
 gem 'table_print'
+gem 'letter_opener'
+gem 'date'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.6'

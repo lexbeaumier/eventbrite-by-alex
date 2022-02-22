@@ -1,5 +1,3 @@
-User.destroy_all
-
 user1 = User.create(
   email: "alex1@yopmail.com",
   encrypted_password: "",
@@ -41,6 +39,6 @@ user5 = User.create(
   encrypted_password: "",
   description: "alex5",
   first_name: "alex5",
-  last_name: "alex5,
+  last_name: "alex5",
 )
 print "@"
