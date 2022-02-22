@@ -1,3 +1,4 @@
+
 user1 = User.create(
   email: "alex1@yopmail.com",
   encrypted_password: "",
@@ -5,7 +6,7 @@ user1 = User.create(
   first_name: "alex1",
   last_name: "alex1",
 )
-print "@"
+print "1"
 
 user2 = User.create(
   email: "alex2@yopmail.com",
@@ -14,7 +15,7 @@ user2 = User.create(
   first_name: "alex2",
   last_name: "alex2",
 )
-print "@"
+print "2"
 
 user3 = User.create(
   email: "alex3@yopmail.com",
@@ -23,7 +24,7 @@ user3 = User.create(
   first_name: "alex3",
   last_name: "alex3",
 )
-print "@"
+print "3"
 
 user4 = User.create(
   email: "alex4@yopmail.com",
@@ -32,7 +33,7 @@ user4 = User.create(
   first_name: "alex4",
   last_name: "alex4",
 )
-print "@"
+print "4"
 
 user5 = User.create(
   email: "alex5@yopmail.com",
@@ -41,4 +42,4 @@ user5 = User.create(
   first_name: "alex5",
   last_name: "alex5",
 )
-print "@"
+print "5"
